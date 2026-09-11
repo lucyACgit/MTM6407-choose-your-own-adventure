@@ -6,3 +6,5 @@ What do you do next?
 - [Sarah goes home](sarah-went-home.md)
 - [Go toward the aquarium](aquarium.md)
 - [A new plan with friends](friends.md)
+- [Visit the reptile house](reptile-house.md)
+
