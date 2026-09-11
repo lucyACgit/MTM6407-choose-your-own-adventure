@@ -5,3 +5,4 @@ What do you do next?
 - [Add lions story path](lions.md)
 - [Sarah goes home](sarah-went-home.md)
 - [Go toward the aquarium](aquarium.md)
+- [A new plan with friends](friends.md)
