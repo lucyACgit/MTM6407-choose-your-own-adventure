@@ -6,6 +6,7 @@ She stops at a tank labeled "Green Tree Python." At first she sees only branches
 
 What does Sarah do next?
 
+- [Stay for the feeding demo](feeding-demo.md)
 - [Go see the lions](lions.md)
 - [Go to the aquarium](aquarium.md)
 - [Sarah goes home](sarah-went-home.md)
